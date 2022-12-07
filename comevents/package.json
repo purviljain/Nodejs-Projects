@@ -19,7 +19,7 @@
     "cookie-parser": "1.x.x",
     "csurf": "1.x.x",
     "emailjs": "1.x.x",
-    "express": "4.13.x",
+    "express": "4.18.x",
     "express-session": "1.x.x",
     "helmet": "2.x.x",
     "jade": "1.x.x",
